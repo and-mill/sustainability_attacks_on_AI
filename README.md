@@ -16,7 +16,7 @@ Feel free to star and fork. Contact me if you are curious (See my Github bio).
 
 # Contents
 - [Motivation](#Motivation)
-- [Sustainability Measures](#Sustainability Measures)
+- [Sustainability](#Sustainability)
 - [Attacks](#Attacks)
 
 # Motivation
@@ -34,7 +34,7 @@ Feel free to star and fork. Contact me if you are curious (See my Github bio).
 | [The Carbon Footprint of Transformers](https://www.youtube.com/watch?v=ftWlj4FBHTg)                                                    |                                                                                                                                                                                                |
 | Huggingface models lists carbon emitted                                                                                                | see [distilgpt2](https://huggingface.co/distilgpt2), it uses [https://mlco2.github.io/impact/#compute](https://mlco2.github.io/impact/#compute)                                                |
 
-# Sustainability Measures
+# Sustainability
 ## Sparsity
 ### General Sparsity (TODO: sort later)
 | Publication                                                                                                                                        | Venue/Journal/Journal | Notes                                                  |
