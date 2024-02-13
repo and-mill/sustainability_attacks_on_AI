@@ -2,10 +2,9 @@
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-There are thousands of publications on making AI more energy and time efficient. We subsume these proposals as sustainability measures for now.  
-From an AI security perspective: Can a bad actor nullify these optimizations for fun (and profit)? We call this energy-latency attacks.  
-This is a novel angle on AI security which will become very relevant very soon.  
-[Sponge Examples: Energy-Latency Attacks on Neural Networks](https://ieeexplore.ieee.org/abstract/document/9581273) will give you a good idea on energy-latency attacks.
+There are thousands of publications on making AI more energy and time efficient. We subsume these proposals as sustainability measures for now.
+
+From an AI security perspective: Can a bad actor nullify these optimizations for fun (and profit)? We call this an **energy-latency attack**. This is a novel angle on AI security which will become very relevant very soon. [Sponge Examples: Energy-Latency Attacks on Neural Networks](https://ieeexplore.ieee.org/abstract/document/9581273) will give you a good idea on energy-latency attacks.
 
 The objective of this repo is to match sustainability measures to existing attacks. This way, we can identify trends and possibly blank spots.
 
